@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://israa-ev.org/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://israa-ev.org/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://israa-ev.org/ar/"/>
+  </url>
+  <url>
+    <loc>https://israa-ev.org/ar/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://israa-ev.org/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://israa-ev.org/ar/"/>
+  </url>
+  <url>
+    <loc>https://israa-ev.org/kontakt.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://israa-ev.org/kontakt.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://israa-ev.org/ar/kontakt.html"/>
+  </url>
+  <url>
+    <loc>https://israa-ev.org/ar/kontakt.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://israa-ev.org/kontakt.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://israa-ev.org/ar/kontakt.html"/>
+  </url>
+  <url>
+    <loc>https://israa-ev.org/impressum.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://israa-ev.org/impressum.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://israa-ev.org/ar/impressum.html"/>
+  </url>
+  <url>
+    <loc>https://israa-ev.org/ar/impressum.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://israa-ev.org/impressum.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://israa-ev.org/ar/impressum.html"/>
+  </url>
+  <url>
+    <loc>https://israa-ev.org/datenschutz.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://israa-ev.org/datenschutz.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://israa-ev.org/ar/datenschutz.html"/>
+  </url>
+  <url>
+    <loc>https://israa-ev.org/ar/datenschutz.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://israa-ev.org/datenschutz.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://israa-ev.org/ar/datenschutz.html"/>
+  </url>
+</urlset>

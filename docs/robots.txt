@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://israa-ev.org/sitemap.xml
