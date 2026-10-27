@@ -1,0 +1,10 @@
+# Allowlist: only the website and repository files are tracked.
+# Anything else placed in this folder stays local.
+/*
+!/docs/
+!/brand/
+!/README.md
+!/.gitignore
+!/.gitattributes
+
+.DS_Store
